@@ -1,14 +1,14 @@
 ## Example 1
 
-Hi {customer}, 
- 
-Hope you’re off to a great start to the year.
-I wanted to reach out and see if there might be interest in learning more about Nix and how teams are using our industry leading sweat and hydration data.
+Hi {customer},
+
+Hope you're off to a great start to the year.
+I wanted to reach out and see if there might be interest in learning more about Cashbakery and how business owners like you are using our platform to get full visibility into their cash flow across all their locations.
 Happy to share a bit of context, walk through the product, or answer any questions if helpful.
 Let me know if it makes sense to connect at some point.
-If more convenient for you, feel free to schedule a time using my calendar link below my email signature. 
- 
-Thanks,
+If more convenient for you, feel free to schedule a time using my calendar link below my email signature.
+
+Best,
 Tim 
 
 ## Example 2
@@ -17,63 +17,58 @@ Hi {customer},
 
 I hope that you are doing well!
 
-Hydration isn’t just about fluids — it’s about performance. A 1% dehydration can reduce pitch velocity by 1–2 mph and impair grip consistency. At 2% dehydration, aerobic performance drops up to 20% and reaction times can slow by 30%.
-Every player sweats differently — sodium losses can vary 15× between teammates — yet most hydration protocols treat them the same.
-Nix Pro measures real-time sweat rate and electrolyte loss for each athlete, giving trainers, dietitians, nutritionists and coaches the ability to personalize hydration and keep performance steady inning after inning.
-We’re now offering shorter pilot programs for MLB organizations specifically to test the system with smaller groups of players to test what a larger rollout could look like. I can walk through how our other MLB clients have used these smaller pilots to validate performance, engagement, and ROI before expanding as they have.
+Cash flow surprises are the #1 killer of profitable businesses. 82% of small businesses fail due to cash flow mismanagement — not because they aren't making money, but because they can't see where it's going fast enough.
+When you're running multiple locations, it gets worse — different bank accounts, separate POS systems, payroll hitting at different times — and most owners are still piecing it together in spreadsheets or logging into 5 different apps.
+Cashbakery connects all your bank accounts, QuickBooks, and POS systems into one dashboard with AI-powered forecasting. You can see exactly where you stand today and where you'll be 30, 60, or 90 days from now — across every location.
+We're currently working with salon groups, fitness studios, and spa operators to run short pilot programs so they can see the value before committing long-term. I can walk through how similar businesses in your space have used Cashbakery to eliminate cash flow blind spots and make faster financial decisions.
 
-Would you be open to a quick conversation this week or next to explore what a pilot could look like for your group?
+Would you be open to a quick conversation this week or next to explore what that could look like for your business?
 
 Best,
-Tim
-
+Tim 
 
 ## Example 3
 
-Hi {customer}, 
- 
-I hope that this email finds you well. I had in my notes to check in with you and see if I can help in any way!
-You showed some interest in Nix Biosensors in the past and I just wanted to check back in.
-Please see below for current updates based on our work with the Chicago Fire (MLS), Legacy Motor Club (NASCAR) and LSU Football.
+Hi {customer},
 
-https://nixbiosensors.com/pages/nix-pro-testimonials
+I hope that this email finds you well. I had in my notes to check in with you and see if I can help in any way!
+I noticed that {company} has been growing — congrats on that! With multiple locations comes the challenge of keeping a clear picture of your cash position across all of them.
+Cashbakery helps multi-location operators like you unify all their financial data — bank accounts, accounting software, POS — into one real-time dashboard with forecasting built in. No more spreadsheets, no more surprises.
 
-I would love to have a conversation with you about how Nix Pro can support custom hydration strategies for you and your team! How is your schedule looking for a call in the coming weeks?  
-Please let me know open times that may work for you, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature. 
- 
-Looking forward to it, 
+I would love to have a conversation with you about how Cashbakery can support your financial visibility as you scale! How is your schedule looking for a call in the coming weeks?
+Please let me know open times that may work for you, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature.
+
+Looking forward to it,
 Tim 
 
 ## Example 4
 
 Hi {customer},
 
-I wanted to reach out to share a bit more about Nix Biosensors and how our hydration monitoring platform is being used more and more across pro and collegiate sports - Chicago Fire, Bay FC, Sheffield United FC, NY Giants, Toronto Blue Jays, Atlanta Falcons, Virginia Tech, Michigan State, LSU, etc...
-Based on Nix data, pro soccer players lost 25.1 ounces of fluid and 945 milligrams of electrolytes per hour.
-Dehydration, including electrolyte imbalances, can cause performance impairments with just 2% loss in body mass. Within our data set, roughly 50% of training sessions reached or exceeded this critical threshold. Without adequate hydration, athletes risk muscle cramps, cognitive dysfunction, and reduced on-field performance.
-While overall sweat losses do not differ markedly by position, a player’s role, physical demands, and training regimen remain highly individualized. The range of fluid loss within a single position can be substantial. Among defenders, for instance, one athlete recorded losses as low as 13.6 ounces per hour, while another reached 41 ounces per hour—a difference of over 27 ounces, equivalent to more than 1.5 pounds of fluid.
-See below how we worked with the Chicago Fire.
+I wanted to reach out to share a bit more about Cashbakery and how our cash flow management platform is helping brick-and-mortar businesses like salons, spas, fitness studios, and gyms get real control over their finances.
+Here's what we're seeing with multi-location operators:
+- The average owner spends 5+ hours per week manually tracking cash flow across locations — that's 260 hours a year.
+- 60% of SMB owners say they've been caught off guard by a cash shortfall in the last 12 months.
+- Businesses using real-time cash flow visibility tools reduce financial surprises by up to 70%.
+Cashbakery pulls in data from all your bank accounts (via Plaid), QuickBooks, and your POS system into a single dashboard. You get real-time inflows and outflows, recurring transaction tracking, and AI-powered forecasts from 7 days to 12 months out — broken down by location, category, or however you need to see it.
+The result? You know exactly when you can hire, expand, or invest — without guessing.
 
-https://nixbiosensors.com/pages/nix-pro-testimonials
-
-I have also attached a brief info sheet that tells you a bit more about our sensor and platforms.
-I would love to set up a conversation and explore how Nix could support your athletes and staff.
-Please let me know open times that may work for you in the coming weeks, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature. 
+I would love to set up a conversation and explore how Cashbakery could support your business.
+Please let me know open times that may work for you in the coming weeks, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature.
 
 Best regards,
-Tim
+Tim 
 
 ## Example 5
 
-Hi {customer}, 
- 
-I hope that this email finds you well. I wanted to connect and share some updates on what has been happening at Nix Biosensors.
-We had a great finish to our Summer and published some great sweat data coming out of our Pro & Collegiate Football programs! You can find that information here!
+Hi {customer},
 
-Nix Pro is the only team-based platform delivering real-time sweat and electrolyte loss data, giving you the power to make informed, on-the-spot hydration decisions. It also provides post-session data for educational and analysis purposes. It’s been used by elite programs like LSU Football, University of Nebraska, Michigan State, Virginia Tech, Atlanta Falcons, Toronto Blue Jays, Chicago Fire (MLS), Bay FC (NWSL) and so many more. See how some of them use Nix Pro here!
- 
-I would love to have a conversation with you about how Nix can support custom hydration strategies for your athletes! How is your schedule looking for a call in the coming weeks?  
-Please let me know open times that may work for you, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature. 
- 
-Looking forward to it, 
+I hope that this email finds you well. I wanted to connect and share what we've been building at Cashbakery.
+We've been working with fitness studios, salons, and spa operators who were tired of flying blind with their finances — logging into multiple bank portals, reconciling spreadsheets, and hoping payroll wouldn't cause a cash crunch.
+Cashbakery is the only platform that connects all your bank accounts, accounting software, and POS systems into one real-time dashboard with AI-powered cash flow forecasting. Owners can see their exact cash position today and project it out 30, 60, or 90+ days — across every location — in minutes, not hours.
+
+I would love to have a conversation with you about how Cashbakery can help you take control of your cash flow as your business grows! How is your schedule looking for a call in the coming weeks?
+Please let me know open times that may work for you, or if more convenient for you, feel free to schedule a time using my calendar link below my email signature.
+
+Looking forward to it,
 Tim 
