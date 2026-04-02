@@ -1,21 +1,20 @@
-Find ideal customer leads for Nix Pro. Focus primarily on sports teams, followed by the labor sector and then the health and military sector. 
-Each lead should contain: 
-- Company/Institution Name
-- If its a sports team it should contain the Teams Name
+Find ideal customer leads for Cashbakery. Focus primarily on fitness and wellness businesses, followed by beauty and personal care. Target brick-and-mortar SMBs doing $1M+ in annual revenue, ideally with 2+ locations.
+Each lead should contain:
+- Company/Business Name
+- If it's a franchise or multi-location business, include the parent brand name
 - Geographical Location
-- Industry 
-- Company/Institution website URL
-- A small description of the company/institution
-- The  Person to Contact
-- their Role/Title
-- their Email
-- a small summary as to why you consider this person is the right contact for this company/institution
-- Redact a personalized outreach Email using relevant company/institution information with the goal of getting them to schedule a call with our sales presentative, Tim. You can use the email_examples.md file for examples on how we currently do it.
+- Industry/Sub-industry
+- Company/Business website URL
+- Estimated number of locations (if available)
+- A small description of the company/business
+- The Person to Contact
+- Their Role/Title
+- Their Email
+- A small summary as to why you consider this person is the right contact for this company/business
+- Redact a personalized outreach Email using relevant company/business information with the goal of getting them to schedule a call with the founders of Cashbakery. You can use the email_examples.md file for examples on how we currently do it.
 
-For sports team, be sure to include leads from the NFL, NBA, MLB, MLS and NHL. Also include non-pro leagues such as the NCAA. Include at least 2 leads for each team in each league.
-For labor, be sure to include leads from the main sectors such as education, health services, wholesale, manufacturing, transportation, construction, mining, agricultural, and other physically taxing sectors.
-For health, include leads from research institutions that focus on human biology and testing.
-For military, include leads from the main federal military services. Also include leads from military schools/academies/colleges/universities that belong to joint, army, marine corps, navy, air force, space force. 
-You can generate multiple leads for the same company/institution if you find multiple persons that fit the criteria, just be sure to order them so all leads for the same company/institution appear together. 
+For fitness and wellness, include leads from: gym chains and boutique fitness studios (CrossFit, F45, Orangetheory, independent studios), yoga and pilates studios (CorePower, Club Pilates, independent multi-location studios), martial arts and boxing gyms, personal training studios, dance studios, wellness centers, and med spas. Include at least 2 leads per business for multi-location operators.
+For beauty and personal care, include leads from: salon chains and multi-location salons, spas and day spas, barbershop chains, nail salon groups, med spas and aesthetic clinics, and tanning studios. Focus on businesses with 2+ locations or high-revenue single locations.
+You can generate multiple leads for the same company/business if you find multiple persons that fit the criteria, just be sure to order them so all leads for the same company/business appear together.
 Each individual lead MUST have an email, this is non-negotiable as the outreach is going to be done through email.
 Save all leads in a structured CSV file inside the /leads directory.
